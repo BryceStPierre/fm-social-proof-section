@@ -17,7 +17,8 @@ html {
 }
 
 body {
-  background-image: url(./images/bg-pattern-top-mobile.svg), url(./images/bg-pattern-bottom-mobile.svg);
+  background-image: url(./images/bg-pattern-top-mobile.svg),
+    url(./images/bg-pattern-bottom-mobile.svg);
   background-repeat: no-repeat, no-repeat;
   background-position: left top, right bottom;
 }
@@ -118,7 +119,7 @@ body {
   &__text {
     line-height: 1.75;
     font-size: 0.8rem;
-    
+
     text-indent: 0.25rem;
     color: $white;
     margin: 0;
@@ -139,7 +140,8 @@ body {
 @media only screen and (min-width: 1160px) {
   body {
     min-height: 100vh;
-    background-image: url(./images/bg-pattern-top-desktop.svg), url(./images/bg-pattern-bottom-desktop.svg);
+    background-image: url(./images/bg-pattern-top-desktop.svg),
+      url(./images/bg-pattern-bottom-desktop.svg);
   }
 
   .container {
