@@ -1,0 +1,22 @@
+{
+  "name": "fm-social-proof-section",
+  "version": "1.0.0",
+  "description": "My solution to the Social proof section challenge on Frontend Mentor.",
+  "main": "index.js",
+  "scripts": {
+    "build": "sass style.scss style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryceStPierre/fm-social-proof-section.git"
+  },
+  "author": "Bryce St. Pierre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BryceStPierre/fm-social-proof-section/issues"
+  },
+  "homepage": "https://github.com/BryceStPierre/fm-social-proof-section#readme",
+  "devDependencies": {
+    "sass": "^1.44.0"
+  }
+}
